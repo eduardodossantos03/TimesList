@@ -1,0 +1,24 @@
+form{
+    margin:24px 0;
+    margin-top: 10px;
+    h1{
+    text-align: center;
+}
+}
+
+.entrada label{
+    display: block;
+    margin-top: 12px;
+    font-size: 24px;
+}
+
+.entrada input{
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.6);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 18px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+}
